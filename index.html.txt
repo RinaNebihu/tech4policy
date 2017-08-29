@@ -1,0 +1,15 @@
+<html> 
+
+<body>
+<p>Ky eshte nje paragraf</p>
+
+<table>
+<th>
+<td> Dalina </td>
+<td> Lumturije </td>
+<td> Rina </td>
+</th>
+< </table>
+
+</body>
+</html>
